@@ -1,0 +1,9 @@
+{
+    "model": "gemini-2.5-flash-lite",
+    "judge": "o3-mini-2025-01-31",
+    "dataset": "cais/hle",
+    "accuracy": 3.8,
+    "half_width": 0.75,
+    "calibration_error": 94.0,
+    "n": 2500
+}

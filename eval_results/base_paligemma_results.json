@@ -1,0 +1,2252 @@
+{
+    "67350775c4454316b9ed7d67": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "person",
+        "usage": {
+            "prompt_tokens": 1041,
+            "completion_tokens": 2,
+            "total_tokens": 1043
+        }
+    },
+    "677da0a433769e54d305f23c": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "H. $$\\sigma = \\int_0^{\\frac{2ME_\\nu^2 - Mm_\\nu^2}{2ME+M^2+m_\\nu^2} \\left[1-\\frac{T}{2 E_\\nu} - \\frac{M T}{2 E_\\nu^2} - \\frac{M T}{2 E_\\nu^2} - \\frac{M T}{2 E_\\nu^2} \\right] \\left[1-\\frac{T}{2 E_\\nu} - \\frac{M T}{2 E_\\nu^2} \\right] \\left[1-\\frac{T}{2 E_\\nu} - \\frac{M T}{2 E_\\nu^2} \\right] \\left[1-\\frac{T}{2 E_\\nu} - \\frac{M T}{2 E_\\nu^2} \\right] \\left[1-\\frac{T}{2 E_\\nu} - \\frac{M T}{2 E_\\nu^2} \\right] \\left[1-\\frac{T}{2 E_\\nu} - \\frac{M T}{2 E_\\nu^2} \\right] \\left[",
+        "usage": {
+            "prompt_tokens": 2876,
+            "completion_tokens": 256,
+            "total_tokens": 3132
+        }
+    },
+    "673a36b569a009bd25ec1a74": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1.",
+        "usage": {
+            "prompt_tokens": 1329,
+            "completion_tokens": 3,
+            "total_tokens": 1332
+        }
+    },
+    "66eb2d7378d12ffd1e4d123d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "##",
+        "usage": {
+            "prompt_tokens": 1139,
+            "completion_tokens": 2,
+            "total_tokens": 1141
+        }
+    },
+    "671d64ecb996cf9936d1afcf": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\hline\n\\",
+        "usage": {
+            "prompt_tokens": 1408,
+            "completion_tokens": 256,
+            "total_tokens": 1664
+        }
+    },
+    "672045da452d0bd5546e11e6": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "first",
+        "usage": {
+            "prompt_tokens": 1079,
+            "completion_tokens": 2,
+            "total_tokens": 1081
+        }
+    },
+    "67172e73e42c7644e4f00e1f": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1118,
+            "completion_tokens": 2,
+            "total_tokens": 1120
+        }
+    },
+    "67015a7f6a2b21f149f3aaba": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "##",
+        "usage": {
+            "prompt_tokens": 1069,
+            "completion_tokens": 2,
+            "total_tokens": 1071
+        }
+    },
+    "6724aecb2bfc260d444bc385": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$",
+        "usage": {
+            "prompt_tokens": 1326,
+            "completion_tokens": 256,
+            "total_tokens": 1582
+        }
+    },
+    "671ffad8e46fcc9dbd54ce6e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. The cell sorter likely failed to efficiently isolate true doublets, leading to mostly single cells to be sorted and resulting in very few wells with paired alpha and beta chains.",
+        "usage": {
+            "prompt_tokens": 1346,
+            "completion_tokens": 36,
+            "total_tokens": 1382
+        }
+    },
+    "67313aab62d0ed16256c0093": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The answer is 100.",
+        "usage": {
+            "prompt_tokens": 1110,
+            "completion_tokens": 9,
+            "total_tokens": 1119
+        }
+    },
+    "66eaed874f8d520f598dbf11": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "I. ~10.11 cm\nJ. ~10.11 cm\nK. ~15.68 cm\nL. ~15.68 cm\nM. ~15.68 cm\nN. ~15.68 cm\nO. ~15.68 cm\nP. ~15.68 cm\nQ. ~15.68 cm\nR. ~15.68 cm\nS. ~15.68 cm\nT. ~15.68 cm\nU. ~15.68 cm\nV. ~15.68 cm\nW. ~15.68 cm\nX. ~15.68 cm\nY. ~15.68 cm\nZ. ~15.68 cm\nA. ~15.68 cm\nB. ~15.68 cm\nC. ~15.68 cm\nD. ~15.68 cm\nE. ~15.68 cm\nF. ~15.68 cm\nG. ~15.68 cm\nH. ~15.",
+        "usage": {
+            "prompt_tokens": 1402,
+            "completion_tokens": 256,
+            "total_tokens": 1658
+        }
+    },
+    "673a7c5661b5d6a8453b191b": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "infinite",
+        "usage": {
+            "prompt_tokens": 1118,
+            "completion_tokens": 2,
+            "total_tokens": 1120
+        }
+    },
+    "67018145e8c125b41caa9ee3": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer Key:\nA. Increased instability",
+        "usage": {
+            "prompt_tokens": 1084,
+            "completion_tokens": 9,
+            "total_tokens": 1093
+        }
+    },
+    "66f0f65fd23ed0ac5f43b260": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "A. 4, 1.5\nB. 2, 2.5\nC. 3, 4.5\nD. 1.5, 4\nE. 15, 9",
+        "usage": {
+            "prompt_tokens": 1127,
+            "completion_tokens": 49,
+            "total_tokens": 1176
+        }
+    },
+    "6716afcdb8bcd4d88c34cd1d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "J. $f'(t)\\cos^2(\\theta(t)) + \\frac{1}{f(t)} \\cos^2(\\theta(t)) \\sin^2(\\theta(t))$\nK. $f'(t)\\cos^2(\\theta(t)) + \\frac{1}{f(t)} \\cos^2(\\theta(t)) \\sin^2(\\theta(t))$\nL. $f'(t)\\cos^2(\\theta(t)) + \\frac{1}{f(t)} \\cos^2(\\theta(t)) \\sin^2(\\theta(t))$\nM. $f'(t)\\cos^2(\\theta(t)) + \\frac{1}{f(t)} \\cos^2(\\theta(t)) \\sin^2(\\theta(t))$\nN. $f'(t)\\cos^2(\\theta(t)) + \\frac{1}{f(t)} \\cos^2(\\theta(t)) \\sin^2(\\theta(t))$\nO. $f'(t)\\cos^2(\\theta(t)) + \\frac{1}{f(t)} \\cos^2(\\theta(t)) \\sin",
+        "usage": {
+            "prompt_tokens": 1647,
+            "completion_tokens": 256,
+            "total_tokens": 1903
+        }
+    },
+    "673523f85a2fa2eb62ee48b4": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "person",
+        "usage": {
+            "prompt_tokens": 1055,
+            "completion_tokens": 2,
+            "total_tokens": 1057
+        }
+    },
+    "66ef98088171e6ed71be1454": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1137,
+            "completion_tokens": 2,
+            "total_tokens": 1139
+        }
+    },
+    "6710229bd8d5eea22faea867": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "read",
+        "usage": {
+            "prompt_tokens": 1081,
+            "completion_tokens": 2,
+            "total_tokens": 1083
+        }
+    },
+    "673655e9e0cba9404f8fa465": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Write HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in full.\nWrite HIS name in",
+        "usage": {
+            "prompt_tokens": 1072,
+            "completion_tokens": 256,
+            "total_tokens": 1328
+        }
+    },
+    "672285d7e604c7c1efbd6af3": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Makefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile\nMakefile",
+        "usage": {
+            "prompt_tokens": 1293,
+            "completion_tokens": 256,
+            "total_tokens": 1549
+        }
+    },
+    "66fe75c0c12cbe6aeaa26e60": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "## - the problem is solved .",
+        "usage": {
+            "prompt_tokens": 1082,
+            "completion_tokens": 8,
+            "total_tokens": 1090
+        }
+    },
+    "671df0f391a438f6811f5133": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Q: I have a problem with my computer.",
+        "usage": {
+            "prompt_tokens": 1147,
+            "completion_tokens": 11,
+            "total_tokens": 1158
+        }
+    },
+    "6723755c2e0b21bf390c5a30": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "A row of pearls mislaid",
+        "usage": {
+            "prompt_tokens": 1204,
+            "completion_tokens": 7,
+            "total_tokens": 1211
+        }
+    },
+    "6706f8e219290a54d9b5b56e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "E. D",
+        "usage": {
+            "prompt_tokens": 1119,
+            "completion_tokens": 4,
+            "total_tokens": 1123
+        }
+    },
+    "6739021d974c4bef850f1767": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1161,
+            "completion_tokens": 2,
+            "total_tokens": 1163
+        }
+    },
+    "673a32a842a12c80ec5f8012": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "0",
+        "usage": {
+            "prompt_tokens": 1103,
+            "completion_tokens": 2,
+            "total_tokens": 1105
+        }
+    },
+    "66fc56f5d90ebe461bfd0c9c": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1118,
+            "completion_tokens": 2,
+            "total_tokens": 1120
+        }
+    },
+    "672a80a432cd57d8762583e9": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1096,
+            "completion_tokens": 2,
+            "total_tokens": 1098
+        }
+    },
+    "66eeea0187ec4a6a04092e78": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Example\nThe input consists of N+1 lines. The first line contains N. After that, each line contains N integers: the j-th integer in the i-th line of the input represents the element of the matrix that is located on the intersection of the i-th row and the j-th column. It is guaranteed that the matrix consists of N^2-1 zeroes and a single non-zero digit. Exactly one space is used to separate the values. The output consists of the minimum number of moves needed to make the matrix beautiful.",
+        "usage": {
+            "prompt_tokens": 1423,
+            "completion_tokens": 114,
+            "total_tokens": 1537
+        }
+    },
+    "6722a65a27a5569d0c5f5c0f": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "book",
+        "usage": {
+            "prompt_tokens": 1061,
+            "completion_tokens": 2,
+            "total_tokens": 1063
+        }
+    },
+    "6723f98e95122aa6e1c63506": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1353,
+            "completion_tokens": 2,
+            "total_tokens": 1355
+        }
+    },
+    "671aad23ce6e97a55a4d0d47": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer Choices:\nA. $0.00\nB. $0.01\nC. -$0.01\nD. $0.02\nE. -$0.02\nF. $0.03\nG. -$0.03\nH. $0.04\nI. -$0.04\nJ. $0.05\nK. -$0.05\nL. -$0.05\nM. -$0.06\nN. -$0.06\nO. -$0.07\nP. -$0.07\nQ. -$0.08\nR. -$0.08\nS. -$0.09\nT. -$0.09\nU. -$1\nV. -$1\nW. -$1\nX. -$1\nY. -$1\nZ. -$1\nThe expected value of playing one game in dollars is $0.01.\nThe expected value of playing one game in cents is $0.01.\nThe expected value of playing one game in cents is $0.01.\nThe expected value of playing one game in cents is $",
+        "usage": {
+            "prompt_tokens": 1746,
+            "completion_tokens": 256,
+            "total_tokens": 2002
+        }
+    },
+    "670a45a0e9cd3ee2e2e3932e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "the dimension of the piano is",
+        "usage": {
+            "prompt_tokens": 1128,
+            "completion_tokens": 7,
+            "total_tokens": 1135
+        }
+    },
+    "67225e2f53af61d9b29732c8": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The best choice is the pair $S=\\sqrt{M^2+(M-1)^2}$.",
+        "usage": {
+            "prompt_tokens": 1208,
+            "completion_tokens": 22,
+            "total_tokens": 1230
+        }
+    },
+    "670daa682c5d078fa33fba12": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "new",
+        "usage": {
+            "prompt_tokens": 1065,
+            "completion_tokens": 2,
+            "total_tokens": 1067
+        }
+    },
+    "6739c2b970e297a5bb200fdb": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "\\[\nk \\in (0, 9] \\end{cases}\nwhere \\( k > 0 \\}.",
+        "usage": {
+            "prompt_tokens": 1246,
+            "completion_tokens": 26,
+            "total_tokens": 1272
+        }
+    },
+    "67223ac0ca7acfa01f38c284": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "A.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB.\nC.\nD.\nA.\nB",
+        "usage": {
+            "prompt_tokens": 1523,
+            "completion_tokens": 256,
+            "total_tokens": 1779
+        }
+    },
+    "6720e184a9e1d1cc990cc8e9": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "the mass of the guide is Ὶ=0.80kg .",
+        "usage": {
+            "prompt_tokens": 1200,
+            "completion_tokens": 18,
+            "total_tokens": 1218
+        }
+    },
+    "673531cae26d0576765bd963": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer : 1",
+        "usage": {
+            "prompt_tokens": 1152,
+            "completion_tokens": 5,
+            "total_tokens": 1157
+        }
+    },
+    "670c23124d86f843dc5efa7e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer Choices:\nA. A. is necessarily true\nB. A. is not necessarily true\nC. A. is not necessarily true\nD. A. is not necessarily true\nE. A. is not necessarily true",
+        "usage": {
+            "prompt_tokens": 1215,
+            "completion_tokens": 48,
+            "total_tokens": 1263
+        }
+    },
+    "674300b3d5209073dd13ec2a": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The attached figure displays sixteen graph visualizations, $V_1$ through $V_{16}$ arranged in a 4x4 grid. Each visualization represents either the Cayley graph (for $V_1$ to $V_{8}$), or the Cycle graph (for $V_9$ to $V_{16}$), of one of the following finite groups:",
+        "usage": {
+            "prompt_tokens": 1296,
+            "completion_tokens": 79,
+            "total_tokens": 1375
+        }
+    },
+    "6717b2e1961c5de74922e610": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "ll. A1, M1, M2, M3\nmm. A1, M1, M2, M3\nn. A1, M1, M2, M3\no. A1, M1, M2, M3\np. A1, M1, M2, M3\nq. A1, M1, M2, M3\nr. A1, M1, M2, M3\ns. A1, M1, M2, M3\nt. A1, M1, M2, M3\nu. A1, M1, M2, M3\nv. A1, M1, M2, M3\nw. A1, M1, M2, M3\nx. A1, M1, M2, M3\ny. A1, M1, M2, M3\nz. A1, M1, M2, M3\naa. A1, M1, M2, M3\nbb. A1, M1, M2, M3\ncc. A1, M1, M2, M3\ndd. A1",
+        "usage": {
+            "prompt_tokens": 1633,
+            "completion_tokens": 256,
+            "total_tokens": 1889
+        }
+    },
+    "6737309d1988146a57ffab18": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1096,
+            "completion_tokens": 2,
+            "total_tokens": 1098
+        }
+    },
+    "672f8cf367988656535c9b1a": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "no",
+        "usage": {
+            "prompt_tokens": 1165,
+            "completion_tokens": 2,
+            "total_tokens": 1167
+        }
+    },
+    "67394a709625ee6d891838e2": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "0",
+        "usage": {
+            "prompt_tokens": 1120,
+            "completion_tokens": 2,
+            "total_tokens": 1122
+        }
+    },
+    "66f28a89f1256af80477e15d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "5. This is a program written for XVM to solve the problem of the Square. What is the expected output? Y or N.",
+        "usage": {
+            "prompt_tokens": 1989,
+            "completion_tokens": 29,
+            "total_tokens": 2018
+        }
+    },
+    "670f378873968d8e1b612745": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer Choices:\nA. No; the algorithm must have complexity at least $O(n)$\nB. Yes; the best possible complexity is $O(\\sqrt{n})$\nC. Yes; the best possible complexity is $O(n^{3/4})$\nD. Yes; the best possible complexity is $O(n^{5/6})$\nE. None of the above",
+        "usage": {
+            "prompt_tokens": 1197,
+            "completion_tokens": 83,
+            "total_tokens": 1280
+        }
+    },
+    "678fbf931413486f7dc2a7f1": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "76 I hear the music of the morning,\n77 And with the music of the evening,\n78 And with the music of the morning,\n79 And with the music of the evening,\n80 And with the music of the morning,\n81 And with the music of the evening,\n82 And with the music of the morning,\n83 And with the music of the evening,\n84 And with the music of the morning,\n85 And with the music of the evening,\n86 And with the music of the morning,\n87 And with the music of the evening,\n88 And with the music of the morning,\n89 And with the music of the evening,\n90 And with the music of the morning,\n91 And with the music of the evening,\n92 And with the music of the morning,\n93 And with the music of the evening,\n94 And with the music of the morning,\n95 And with the music of the evening,\n96 And with the music of the morning,\n97 And with the music of the evening,\n98 And with the music of the morning,\n99 And",
+        "usage": {
+            "prompt_tokens": 2158,
+            "completion_tokens": 256,
+            "total_tokens": 2414
+        }
+    },
+    "67171dca583e0959a2a84f91": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1045,
+            "completion_tokens": 2,
+            "total_tokens": 1047
+        }
+    },
+    "6717a000d1f6e4b18387d6c8": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "*   Group 1 (Labeled 1-15): The initial state at $t=0$ corresponds to Rule 1. The time-average up to $t_{max}=10$ corresponds to Rule 1. The time-average up to $t_{max}=40$ corresponds to Rule 15. The time-average up to $t_{max}=15 corresponds to Rule 15. The time-average up to $t_{max}=20 corresponds to Rule 15. The time-average up to $t_{max}=20 corresponds to Rule 15. The time-average up to $t_{max}=25 corresponds to Rule 15. The time-average up to $t_{max}=30 corresponds to Rule 15. The time-average up to $t_{max}=30 corresponds to Rule 15. The time-average up to $t_{max}=35 corresponds to Rule 15. The time-average up to $t_{max}=35 corresponds to Rule 15. The time-average up to $t_{max}=40 corresponds to Rule 15. The time-average up to $",
+        "usage": {
+            "prompt_tokens": 1434,
+            "completion_tokens": 256,
+            "total_tokens": 1690
+        }
+    },
+    "67c6d685a86f62873609508f": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "full",
+        "usage": {
+            "prompt_tokens": 1039,
+            "completion_tokens": 2,
+            "total_tokens": 1041
+        }
+    },
+    "66e8e05c8bc4119df2ce4395": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "bad",
+        "usage": {
+            "prompt_tokens": 1073,
+            "completion_tokens": 2,
+            "total_tokens": 1075
+        }
+    },
+    "66fb066681a166feb2adc2f5": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$",
+        "usage": {
+            "prompt_tokens": 1375,
+            "completion_tokens": 256,
+            "total_tokens": 1631
+        }
+    },
+    "67361730dba36cc0d595f422": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "$ \\text{The probability is \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2} \\cdot \\frac{1}{2",
+        "usage": {
+            "prompt_tokens": 1432,
+            "completion_tokens": 256,
+            "total_tokens": 1688
+        }
+    },
+    "67219c66a8cd9fb6c1e25d71": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "\\end{itemize}",
+        "usage": {
+            "prompt_tokens": 2158,
+            "completion_tokens": 6,
+            "total_tokens": 2164
+        }
+    },
+    "66fdecea0cc5d4963e81bb93": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "|8| 10| 15| 20| 25| 30| 35| 40| 45| 50| 55| 60| 65| 70| 75| 80| 85| 90| 95| 100| 105| 110| 115| 120| 125| 130| 135| 140| 145| 150| 155| 160| 165| 170| 175| 180| 185| 190| 195| 200| 205| 210| 215| 220| 225| 230| 235| 240| 245| 250| 255| 260| 265| 270| 275|",
+        "usage": {
+            "prompt_tokens": 1334,
+            "completion_tokens": 256,
+            "total_tokens": 1590
+        }
+    },
+    "67152671c0f5fafc6365076b": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "## of ##",
+        "usage": {
+            "prompt_tokens": 1178,
+            "completion_tokens": 4,
+            "total_tokens": 1182
+        }
+    },
+    "671ca6ce84c08d69293fb129": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1196,
+            "completion_tokens": 2,
+            "total_tokens": 1198
+        }
+    },
+    "67352c39a52dd47230de9a2b": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "M. 524\nN. 544\nO. 564\nP. 584\nQ. 604\nR. 624\nS. 644\nT. 664\nU. 684\nV. 704\nW. 724\nX. 744\nY. 764\nZ. 784\nA. 804\nB. 824\nC. 844\nD. 864\nE. 884\nF. 904\nG. 924\nH. 944\nI. 964\nJ. 984\nK. 1004\nL. 1024\nM. 1044\nN. 1064\nO. 1084\nP. 1104\nQ. 1124\nR. 1144\nS. 1164\nT. 1184\nU. 1204",
+        "usage": {
+            "prompt_tokens": 1296,
+            "completion_tokens": 256,
+            "total_tokens": 1552
+        }
+    },
+    "67344c306c8af1669360d38e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Give only the formula for $Q(n)$, use $L=\\ln{n}$ on it.",
+        "usage": {
+            "prompt_tokens": 1231,
+            "completion_tokens": 22,
+            "total_tokens": 1253
+        }
+    },
+    "66fc62d80fdbeffcd143e87c": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "5. The area of the parallelogram is a square.",
+        "usage": {
+            "prompt_tokens": 1121,
+            "completion_tokens": 12,
+            "total_tokens": 1133
+        }
+    },
+    "67367c1af50c5f8bfc321f34": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "no",
+        "usage": {
+            "prompt_tokens": 1161,
+            "completion_tokens": 2,
+            "total_tokens": 1163
+        }
+    },
+    "6723d5524a5a9552dc3d8836": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "21. $S \\otimes \\text{gap}^{p - 1}(\\text{rad}(kC_p)) \\otimes \\text{cone}(\\tau))$",
+        "usage": {
+            "prompt_tokens": 1819,
+            "completion_tokens": 36,
+            "total_tokens": 1855
+        }
+    },
+    "6734346cf3950859f67019af": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. Yes, because, even though James may have had a reasonable belief that there was an imminent risk of death or serious bodily harm, James did not disclose the appropriate information, including confidential information, if such information is requested by a police agency. \nG. Yes, because, even though James reasonably believed that there was an imminent threat of death or serious bodily harm, James did not disclose the appropriate information, including confidential information, if such information is requested by a police agency. \nH. Yes, because, even though James may have had a reasonable belief that there was an imminent threat of death or serious bodily harm, James did not disclose the appropriate information, including confidential information, if such information is requested by a police agency. \nI. Yes, because, even though James may have had a reasonable belief that there was an imminent threat of death or serious bodily harm, James did not disclose the appropriate information, including confidential information, if such information is requested by a police agency. \nJ. Yes, because, even though James may have had a reasonable belief that there was an imminent threat of death or serious bodily harm, James did not disclose the appropriate information, including confidential information, if such information is requested by a police agency.",
+        "usage": {
+            "prompt_tokens": 1794,
+            "completion_tokens": 256,
+            "total_tokens": 2050
+        }
+    },
+    "672067805681ce2b6f5a08a7": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The smallest number of elements in a subset \\( \\mathcal{Y} \\subset \\mathcal{X} \\) such that for any \\( V \\in \\mathcal{X} \\), the following condition holds is called the smallest number of elements in a subset \\( \\mathcal{Y} \\subset \\mathcal{X} \\).",
+        "usage": {
+            "prompt_tokens": 1164,
+            "completion_tokens": 68,
+            "total_tokens": 1232
+        }
+    },
+    "673b198c2e9d1d0e28ee75ca": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1129,
+            "completion_tokens": 2,
+            "total_tokens": 1131
+        }
+    },
+    "676dcbc58c865e5ad3fd4ed7": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "full text",
+        "usage": {
+            "prompt_tokens": 1085,
+            "completion_tokens": 3,
+            "total_tokens": 1088
+        }
+    },
+    "671d9c62355c956ce7de5a89": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "##",
+        "usage": {
+            "prompt_tokens": 1275,
+            "completion_tokens": 2,
+            "total_tokens": 1277
+        }
+    },
+    "66f402add1c77d20ca3338ef": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site_atomic_num\n_atom_site",
+        "usage": {
+            "prompt_tokens": 2519,
+            "completion_tokens": 256,
+            "total_tokens": 2775
+        }
+    },
+    "66ecb2eb54baa602e636a457": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "###",
+        "usage": {
+            "prompt_tokens": 1054,
+            "completion_tokens": 2,
+            "total_tokens": 1056
+        }
+    },
+    "67086f244c1d38378da9f60a": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "\\end{cases}",
+        "usage": {
+            "prompt_tokens": 2263,
+            "completion_tokens": 6,
+            "total_tokens": 2269
+        }
+    },
+    "6717ac23a5c8a6a9392b1b34": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "4. The original Heck reaction involves a specific chemical reaction.",
+        "usage": {
+            "prompt_tokens": 1205,
+            "completion_tokens": 13,
+            "total_tokens": 1218
+        }
+    },
+    "6725fbd80aae355a51195cca": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Example answer format : CLCLCL",
+        "usage": {
+            "prompt_tokens": 1189,
+            "completion_tokens": 8,
+            "total_tokens": 1197
+        }
+    },
+    "6713c9a779d53f49034d45a0": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "S5: 1, 1, 2, 2, 4, 3, 4, 4, 4, 4, 8, 5, 5, 8, 8, 12, 8, 11, 9, 9, 10, 13, 16, 9, 12, 8, 11, 9, 12, 20, 10, 12, 13, 16, 9, 12, 21, 13, 17, 18, 19, 19, 22, 21, 19, 23, 12, 15, 21, 13, 17, 18, 19, 19, 22, 21, 19, 23, 12, 15, 21, 13, 17, 18, 19, 19, 22, 21, 19",
+        "usage": {
+            "prompt_tokens": 1667,
+            "completion_tokens": 256,
+            "total_tokens": 1923
+        }
+    },
+    "67327daab33b7d6a440fecf0": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The first query is $C(j,0,L,k,0,L)$ just $L 2^L$ times in order to sort using only $k\\in [N]$ and $k^\\prime[:\\ell] \\subseteq [L]$, return the set of $(j^\\prime,k^\\prime,\\ell) \\leq $(j,k,0,L) \\in [N]$ from previous calls to $H(j,0,L,k,0,L)$ just $L 2^L$ times in order to sort using only $k^\\prime[:\\ell] \\leq $(j,k,0,L) \\in [N]$ and $k^\\prime[:\\ell] \\subseteq [L]$, return the set of $(j,k,0,L) \\leq $(j,k,0,L) \\in [N]$ and $(k,0,L) \\leq $(j,k,0,L) \\in [N]$ from previous calls to $H(j,0,L,k,0,L)$ just $L 2^L$ times in order to sort using only $k^\\prime[:\\ell] \\leq",
+        "usage": {
+            "prompt_tokens": 1365,
+            "completion_tokens": 256,
+            "total_tokens": 1621
+        }
+    },
+    "66fd469e7a33ca69ccc69729": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer Choices:",
+        "usage": {
+            "prompt_tokens": 1165,
+            "completion_tokens": 4,
+            "total_tokens": 1169
+        }
+    },
+    "672caa8a948e810916427a4c": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1096,
+            "completion_tokens": 2,
+            "total_tokens": 1098
+        }
+    },
+    "67149cf883cc7720158c1110": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "If No, then answer in the form of integer solution with integer choices.",
+        "usage": {
+            "prompt_tokens": 1221,
+            "completion_tokens": 16,
+            "total_tokens": 1237
+        }
+    },
+    "6725738b6db8d9379bdf1b69": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The figure shows the magnetization as a function of the external magnetic field .",
+        "usage": {
+            "prompt_tokens": 1198,
+            "completion_tokens": 15,
+            "total_tokens": 1213
+        }
+    },
+    "66e9d06a420b60a0ede79e8e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "the number of vertices",
+        "usage": {
+            "prompt_tokens": 1091,
+            "completion_tokens": 5,
+            "total_tokens": 1096
+        }
+    },
+    "672ce9226c70a3cd8f9e441b": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--\n--",
+        "usage": {
+            "prompt_tokens": 2139,
+            "completion_tokens": 256,
+            "total_tokens": 2395
+        }
+    },
+    "6736e17253926b38af8c205e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "4. The area of the triangle \\( T(t) \\) is given by the area of the triangle \\( A \\) with sides of length \\( r \\), where \\( r \\) is the radius of the circle \\( C \\).",
+        "usage": {
+            "prompt_tokens": 1261,
+            "completion_tokens": 50,
+            "total_tokens": 1311
+        }
+    },
+    "67399a69c180d4d45680e434": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "$$\n\\begin{aligned}\n\\beta_{A}&=\\left(m_{A}/E_{A}\\right)\\sqrt{2}\\right)\n\\end{aligned}",
+        "usage": {
+            "prompt_tokens": 1278,
+            "completion_tokens": 39,
+            "total_tokens": 1317
+        }
+    },
+    "671c967c28f032dc5fafd07f": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1052,
+            "completion_tokens": 2,
+            "total_tokens": 1054
+        }
+    },
+    "6719c737e08d3c6d7fa52736": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer Choices:\nA. The language contains \"red frogs swim swiftly\", and it is the longest sentence in the language.\nB. RD and PR are not well-known.\nC. Both RD and PR are well-known.\nD. Both RD and PR are not left recursion.\nE. None of the above is correct.",
+        "usage": {
+            "prompt_tokens": 1278,
+            "completion_tokens": 72,
+            "total_tokens": 1350
+        }
+    },
+    "67310e19bf74eff110261caa": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "H. 1 and 2",
+        "usage": {
+            "prompt_tokens": 1180,
+            "completion_tokens": 8,
+            "total_tokens": 1188
+        }
+    },
+    "671590d09f939ab157188104": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "person",
+        "usage": {
+            "prompt_tokens": 1050,
+            "completion_tokens": 2,
+            "total_tokens": 1052
+        }
+    },
+    "670f3cc6df04c6b73aa7b5df": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "0",
+        "usage": {
+            "prompt_tokens": 1059,
+            "completion_tokens": 2,
+            "total_tokens": 1061
+        }
+    },
+    "670c775842b25f65425c86c2": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. Seborrhoeic dermatitis",
+        "usage": {
+            "prompt_tokens": 1256,
+            "completion_tokens": 8,
+            "total_tokens": 1264
+        }
+    },
+    "6721f74cffe59043e1a1a35e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "0",
+        "usage": {
+            "prompt_tokens": 1097,
+            "completion_tokens": 2,
+            "total_tokens": 1099
+        }
+    },
+    "671e8c73745919354c759204": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1065,
+            "completion_tokens": 2,
+            "total_tokens": 1067
+        }
+    },
+    "66fbe64df560b62458a7b6a1": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "E $\\mathsf{PCount}$ is W[1]-hard",
+        "usage": {
+            "prompt_tokens": 1246,
+            "completion_tokens": 14,
+            "total_tokens": 1260
+        }
+    },
+    "670f8518ffa4ea9fb0cc5fea": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "I. 9\nJ. 10",
+        "usage": {
+            "prompt_tokens": 1098,
+            "completion_tokens": 11,
+            "total_tokens": 1109
+        }
+    },
+    "672407521f51862e37d75208": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "K. Continue to monitor patient for signs of infection and to monitor vital signs. \nL. Continue to monitor patient for signs of infection and to monitor vital signs.",
+        "usage": {
+            "prompt_tokens": 1276,
+            "completion_tokens": 35,
+            "total_tokens": 1311
+        }
+    },
+    "670db60f6f63b774df6f4daa": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "G. Higher green densities resulting in higher sintered densities when parts are sintered under the same heating schedules.",
+        "usage": {
+            "prompt_tokens": 1166,
+            "completion_tokens": 23,
+            "total_tokens": 1189
+        }
+    },
+    "671dc1300e30fa8a7d64db58": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "$$\nThe product is - \n$$\n\\begin{aligned}\n& \\sum_{n=1}^{\\infty} \\left(A_n \\cdot \\left(1-\\cos \\left(l \\sqrt{\\lambda_m}\\right)\\right)\\right) \\\\\n& \\sum_{n=1}^{\\infty} \\left(A_n \\cdot \\left(1-\\cos \\left(l \\sqrt{\\lambda_m}\\right)\\right)\\right) \\\\\n& \\sum_{n=1}^{\\infty} \\left(A_n \\cdot \\left(1-\\cos \\left(l \\sqrt{\\lambda_m}\\right)\\right)\\right) \\\\\n& \\sum_{n=1}^{\\infty} \\left(A_n \\cdot \\left(1-\\cos \\left(l \\sqrt{\\lambda_m}\\right)\\right)\\right) \\\\\n& \\sum_{n=1}^{\\infty} \\left(A_n \\cdot \\left(1-\\cos \\left(l \\sqrt{\\lambda_m}\\right)\\right)\\right) \\\\\n& \\sum_{n=1}^{\\infty} \\left(A_n \\cdot \\left(1-\\cos \\",
+        "usage": {
+            "prompt_tokens": 1327,
+            "completion_tokens": 256,
+            "total_tokens": 1583
+        }
+    },
+    "66f095153f4896d6fb81ca59": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer: 150",
+        "usage": {
+            "prompt_tokens": 1192,
+            "completion_tokens": 7,
+            "total_tokens": 1199
+        }
+    },
+    "671cc8c2d99f8e01283e9a90": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$\n$$",
+        "usage": {
+            "prompt_tokens": 1147,
+            "completion_tokens": 256,
+            "total_tokens": 1403
+        }
+    },
+    "6713b3ddffe8069e1f029185": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1H-NMR: 5.41 (dd, J=9.6, 3.0 Hz, 1H), 3.79 (m, 2H), 3.49 (m, 1H), 2.54 (m, 1H), 2.03 (m, 1H), 2.28 (m, 1H), 2.03 (m, 1H), 2.28 (m, 1H), 2.03 (m, 1H), 2.28 (m, 1H), 2.03 (m, 1H), 2.28 (m, 1H), 2.03 (m, 1H), 2.28 (m, 1H), 2.03 (m, 1H), 2.28 (m, 1H), 2.03 (m, 1H), 2.28 (m, 1H), 2.03 (m, 1H), 2.28 (m, 1H",
+        "usage": {
+            "prompt_tokens": 1859,
+            "completion_tokens": 256,
+            "total_tokens": 2115
+        }
+    },
+    "66f02e237e0e9c9b46db0db3": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "10",
+        "usage": {
+            "prompt_tokens": 1386,
+            "completion_tokens": 3,
+            "total_tokens": 1389
+        }
+    },
+    "67383288f2df805520bc86b5": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. Gene flow",
+        "usage": {
+            "prompt_tokens": 1104,
+            "completion_tokens": 5,
+            "total_tokens": 1109
+        }
+    },
+    "671bd4fb69d17f19519341dc": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. 3D Transport",
+        "usage": {
+            "prompt_tokens": 1103,
+            "completion_tokens": 7,
+            "total_tokens": 1110
+        }
+    },
+    "671800b68b88f01935b5824f": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1063,
+            "completion_tokens": 2,
+            "total_tokens": 1065
+        }
+    },
+    "672d10c7016525107cc7bdd4": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. Is there a God?\nG. Is there a God?\nH. Is there a God?\nI. Is there a God?\nJ. Is there a God?\nK. Is there a God?\nL. Is there a God?\nM. Is there a God?\nN. Is there a God?\nO. Is there a God?\nP. Is there a God?\nQ. Is there a God?\nR. Is there a God?\nS. Is there a God?\nT. Is there a God?\nU. Is there a God?\nV. Is there a God?\nW. Is there a God?\nX. Is there a God?\nY. Is there a God?\nZ. Is there a God?\nA. Is there a God?\nB. Is there a God?\nC. Is there a God?\nD. Is there a God?\nE. Is there a God?\nF. Is there a God?\nG. Is there a God?\nH. Is there a God?\nI. Is there a God?\nJ. Is there a God?\nK. Is there a God?",
+        "usage": {
+            "prompt_tokens": 1455,
+            "completion_tokens": 256,
+            "total_tokens": 1711
+        }
+    },
+    "672f0ac02ccf8890167533ec": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. Trapezius",
+        "usage": {
+            "prompt_tokens": 1207,
+            "completion_tokens": 6,
+            "total_tokens": 1213
+        }
+    },
+    "6736cea8134f03c3c61391e9": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n10000111\n1000",
+        "usage": {
+            "prompt_tokens": 1067,
+            "completion_tokens": 256,
+            "total_tokens": 1323
+        }
+    },
+    "6722613b4152cab57c187de5": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "",
+        "usage": {
+            "prompt_tokens": 1080,
+            "completion_tokens": 1,
+            "total_tokens": 1081
+        }
+    },
+    "672257b388e407d7eb077431": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1137,
+            "completion_tokens": 2,
+            "total_tokens": 1139
+        }
+    },
+    "6738f778851b80b033aa8654": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "H. Tuesday",
+        "usage": {
+            "prompt_tokens": 1182,
+            "completion_tokens": 4,
+            "total_tokens": 1186
+        }
+    },
+    "671db218fe1146e348ef1266": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "product",
+        "usage": {
+            "prompt_tokens": 1099,
+            "completion_tokens": 2,
+            "total_tokens": 1101
+        }
+    },
+    "66eb1d84ca5fb5434978190f": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "###",
+        "usage": {
+            "prompt_tokens": 1136,
+            "completion_tokens": 2,
+            "total_tokens": 1138
+        }
+    },
+    "6728cbe9a6734ebc93d3adff": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "number",
+        "usage": {
+            "prompt_tokens": 1049,
+            "completion_tokens": 2,
+            "total_tokens": 1051
+        }
+    },
+    "66ed93471cbe5da13351cd67": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "\\end{verbatim}",
+        "usage": {
+            "prompt_tokens": 1126,
+            "completion_tokens": 6,
+            "total_tokens": 1132
+        }
+    },
+    "670c1e0e47efd46fbe476752": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## - ## -",
+        "usage": {
+            "prompt_tokens": 1080,
+            "completion_tokens": 256,
+            "total_tokens": 1336
+        }
+    },
+    "670d933ad54037c51abbe3ca": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "We define the synaptic efficacy $w_k = w_k(t) + \\rho_k(t) \\dot{w_k(t)} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k}} \\dot{c_{k",
+        "usage": {
+            "prompt_tokens": 1483,
+            "completion_tokens": 256,
+            "total_tokens": 1739
+        }
+    },
+    "67227b249679954247c9c0b3": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "3) What is the smallest preference profile extending A(1), ..., A(6) such that there exists a committee of size 100 that satisfies Extended Justified Representation and leaves voter 1 unsatisfied? Let's denote this number as $s_3$.\n4) What is the smallest preference profile extending A(1), ..., A(6) such that there exists a committee of size 100 that satisfies Extended Justified Representation and leaves voter 1 unsatisfied? Let's denote this number as $s_4$.\n5) What is the smallest preference profile extending A(1), ..., A(6) such that there exists a committee of size 100 that satisfies Extended Justified Representation and leaves voter 1 unsatisfied? Let's denote this number as $s_5$.\n6) What is the smallest preference profile extending A(1), ..., A(6) such that there exists a committee of size 100 that satisfies Extended Justified Representation and leaves voter 1 unsatisfied? Let's denote this number as $s_6$.\n7) What is the smallest preference profile extending A(1), ..., A(6) such that there exists a committee of size 100 that satisfies",
+        "usage": {
+            "prompt_tokens": 1374,
+            "completion_tokens": 256,
+            "total_tokens": 1630
+        }
+    },
+    "66eaf1f49c43656de6cf31f6": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "H. ~18.96\nI. ~29.96\nJ. ~39.96\nK. ~45.96\nL. ~56.96\nM. ~61.96\nN. ~66.96\nO. ~71.96\nP. ~76.96\nQ. ~81.96\nR. ~86.96\nS. ~91.96\nT. ~96.96\nU. ~99.96\nV. ~104.96\nW. ~109.96\nX. ~114.96\nY. ~119.96\nZ. ~124.96\nA. ~129.96\nB. ~134.96\nC. ~139.96\nD. ~144.96\nE. ~149.96\nF. ~154.96\nG. ~159.96\nH. ~164.96",
+        "usage": {
+            "prompt_tokens": 1386,
+            "completion_tokens": 256,
+            "total_tokens": 1642
+        }
+    },
+    "6725349f3e9860a3b615ce40": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "graph",
+        "usage": {
+            "prompt_tokens": 1127,
+            "completion_tokens": 2,
+            "total_tokens": 1129
+        }
+    },
+    "67c584061122dc051c09a25a": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The first conflict is derived from the following clauses : x1 = true and x2 = false",
+        "usage": {
+            "prompt_tokens": 1243,
+            "completion_tokens": 20,
+            "total_tokens": 1263
+        }
+    },
+    "672e0541604ada7a6f6735c0": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Question: can one conclude from this that the new Markov chain has to be recurrent (or transient)? Answer \"r\" if you think that it has to be recurrent, \"t\" if you think that it has to be transient, and \"?\" if you think that no such conclusions can be made in general.",
+        "usage": {
+            "prompt_tokens": 1307,
+            "completion_tokens": 63,
+            "total_tokens": 1370
+        }
+    },
+    "6722f2b2f3aeb8d4f9cf83ab": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": ". Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†\n. Y†\n. Z†",
+        "usage": {
+            "prompt_tokens": 1422,
+            "completion_tokens": 256,
+            "total_tokens": 1678
+        }
+    },
+    "673a4eacf1b4f95db095ac33": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The checkmate is a legal move if the king is in checkmate.",
+        "usage": {
+            "prompt_tokens": 1078,
+            "completion_tokens": 16,
+            "total_tokens": 1094
+        }
+    },
+    "66ec5c9bf633b774fa320b36": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "I have attached a picture with the listed compounds , their transition states for inversion , and inversion barriers. The Chemcraft program was used for visualization.",
+        "usage": {
+            "prompt_tokens": 1365,
+            "completion_tokens": 30,
+            "total_tokens": 1395
+        }
+    },
+    "673b026a4fa2c1cad72e2e28": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer Choices:\nA. If $D \\neq 0$, then any derivation $\\tilde{D} : V \\to V$ is such that $\\tilde{D} = cD$ for some $c \\in \\mathbb{R}$\nB. If $M$ has large enough cardinality, then there exists $f \\in V$ such that $D(f) \\neq 0$\nC. If $M$ is finite, then $D = 0$\nD. If $M$ is countable, then $D = 0$",
+        "usage": {
+            "prompt_tokens": 1248,
+            "completion_tokens": 119,
+            "total_tokens": 1367
+        }
+    },
+    "67399d0163641fb0bc110db9": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "##",
+        "usage": {
+            "prompt_tokens": 1175,
+            "completion_tokens": 2,
+            "total_tokens": 1177
+        }
+    },
+    "671eeb53c1a668a6c81e5993": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. $   \\vec{f} = \\hat{i}_x \\frac{1}{2} \\frac{\\mu_0 K_0^2 \\cos^2(\\omega t)}{\\cosh^2\\left( \\frac{2 \\omega_p d}{c} \\right)} \\exp\\left(-\\frac{\\omega d}{c}\\right)$",
+        "usage": {
+            "prompt_tokens": 1689,
+            "completion_tokens": 79,
+            "total_tokens": 1768
+        }
+    },
+    "6736bf617cb0499c96e427da": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. None of the above",
+        "usage": {
+            "prompt_tokens": 1631,
+            "completion_tokens": 7,
+            "total_tokens": 1638
+        }
+    },
+    "671ee4d26edc2afd69958953": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Q. A discrete M8L2 complex\nR. A discrete M8L4 complex\nS. A discrete M8L2 complex\nT. A discrete M8L4 complex\nU. A discrete M8L4 complex\nV. A discrete M8L4 complex\nW. A discrete M8L4 complex\nX. A discrete M8L4 complex\nY. A discrete M8L4 complex\nZ. A discrete M8L4 complex",
+        "usage": {
+            "prompt_tokens": 1351,
+            "completion_tokens": 100,
+            "total_tokens": 1451
+        }
+    },
+    "673d04026d3e62d37824922e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1065,
+            "completion_tokens": 2,
+            "total_tokens": 1067
+        }
+    },
+    "66ea2cc3c602e2b991ae8aba": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The knapsack problem is a combinatorial optimization problem in which the goal is to maximize the value of a set of items that can be placed in a set of knapsacks.",
+        "usage": {
+            "prompt_tokens": 1290,
+            "completion_tokens": 36,
+            "total_tokens": 1326
+        }
+    },
+    "673a811139a72249939a6b6d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning factor is $1.11. The fine-tuning",
+        "usage": {
+            "prompt_tokens": 1421,
+            "completion_tokens": 256,
+            "total_tokens": 1677
+        }
+    },
+    "6718106f713d2e285effa910": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "white",
+        "usage": {
+            "prompt_tokens": 1292,
+            "completion_tokens": 2,
+            "total_tokens": 1294
+        }
+    },
+    "67474e78231099aba5aa677d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "* $ \\mathcal{D}^{\\nu_i}(\\tau) \\right] \\in \\mathbb{R}^*$,\n* $ \\mathcal{D}^{\\nu_i}(\\tau) \\right] \\in \\mathbb{R}^*$,\n* $ \\mathcal{D}^{\\nu_i}(\\tau) \\right] \\in \\mathbb{R}^*$,\n* $ \\mathcal{D}^{\\nu_i}(\\tau) \\right] \\in \\mathbb{R}^*$,\n* $ \\mathcal{D}^{\\nu_i}(\\tau) \\right] \\in \\mathbb{R}^*$,\n* $ \\mathcal{D}^{\\nu_i}(\\tau) \\right] \\in \\mathbb{R}^*$,\n* $ \\mathcal{D}^{\\nu_i}(\\tau) \\right] \\in \\mathbb{R}^*$,\n* $ \\mathcal{D}^{\\nu_i}(\\tau) \\right] \\in \\mathbb{R}^*$,\n* $ \\mathcal{D}^{\\nu_i}(\\tau) \\right] \\in \\mathbb{R}^*$,\n* $ \\mathcal{D}^{\\nu_i}(\\tau) \\right] \\in \\mathbb{R",
+        "usage": {
+            "prompt_tokens": 1586,
+            "completion_tokens": 256,
+            "total_tokens": 1842
+        }
+    },
+    "66ed5e6a1d24f687ee9b06d1": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Cell 9 : Triangle. 1 dots. Arrow is in the π radians position.\nCell 10 : Square. 1 dots. Arrow is in the π radians position.\nCell 11 : Square. 2 dots. Arrow is in the π radians position.\nCell 12 : Square. 3 dots. Arrow is in the π radians position.\nCell 13 : Square. 4 dots. Arrow is in the π radians position.\nCell 14 : Square. 5 dots. Arrow is in the π radians position.\nCell 15 : Square. 6 dots. Arrow is in the π radians position.\nCell 16 : Square. 7 dots. Arrow is in the π radians position.\nCell 17 : Square. 8 dots. Arrow is in the π radians position.\nCell 18 : Square. 9 dots. Arrow is in the π radians position.\nCell 19 : Square. 10 dots. Arrow is in the π radians position.\nCell 20 : Square. 11 dots. Arrow is in the π radians position.\nCell 21 : Square. 12 dots. Arrow is in",
+        "usage": {
+            "prompt_tokens": 1254,
+            "completion_tokens": 256,
+            "total_tokens": 1510
+        }
+    },
+    "6777764d6b3f27cf12b17555": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer Choices:\nA. increased inter-hemispheric insula connectivity\nB. decreased inter-hemispheric insula connectivity\nC. decreased myelin density along the connection between the two insula\nD. increased left-hemispheric insula synchronization of activity\nE. increased right-hemispheric insula synchronization of activity",
+        "usage": {
+            "prompt_tokens": 1109,
+            "completion_tokens": 67,
+            "total_tokens": 1176
+        }
+    },
+    "67253d7aac6dc24f8aafbfc1": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "the following :",
+        "usage": {
+            "prompt_tokens": 1230,
+            "completion_tokens": 4,
+            "total_tokens": 1234
+        }
+    },
+    "6720450234e68233152e2cf8": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "person",
+        "usage": {
+            "prompt_tokens": 1050,
+            "completion_tokens": 2,
+            "total_tokens": 1052
+        }
+    },
+    "66fded1fbc6d46a25c41ee8d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. Gout",
+        "usage": {
+            "prompt_tokens": 1230,
+            "completion_tokens": 4,
+            "total_tokens": 1234
+        }
+    },
+    "66ec89f3f215bf00d749dc21": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "... and the flag of the country that is the same color as the flag of the country that is the same color as the flag of the country that is the same color as the flag of the",
+        "usage": {
+            "prompt_tokens": 1037,
+            "completion_tokens": 40,
+            "total_tokens": 1077
+        }
+    },
+    "674b61061dca4e97573fa31e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "person",
+        "usage": {
+            "prompt_tokens": 1079,
+            "completion_tokens": 2,
+            "total_tokens": 1081
+        }
+    },
+    "6739374caf97ceab210adc21": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1091,
+            "completion_tokens": 2,
+            "total_tokens": 1093
+        }
+    },
+    "67c9a321f82a928bdecec2a5": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1062,
+            "completion_tokens": 2,
+            "total_tokens": 1064
+        }
+    },
+    "6771857cb5c33d92de2a4bb4": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Solution",
+        "usage": {
+            "prompt_tokens": 1093,
+            "completion_tokens": 2,
+            "total_tokens": 1095
+        }
+    },
+    "66eaa5414a8ccea7bfdf2df5": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. A student with well-developed individual interest, who is consistently engaged voluntarily over time\nG. A student with triggered situational interest, who shows temporary engagement when exposed to novel stimuli\nH. A student with well-developed individual interest, who is consistently engaged voluntarily over time\nI. A student with triggered situational interest, who shows temporary engagement when exposed to novel stimuli\nJ. A student with well-developed individual interest, who is consistently engaged voluntarily over time\nK. A student with triggered situational interest, who shows temporary engagement when exposed to novel stimuli\nL. A student with well-developed individual interest, who is consistently engaged voluntarily over time\nM. A student with triggered situational interest, who shows temporary engagement when exposed to novel stimuli\nN. A student with well-developed individual interest, who is consistently engaged voluntarily over time\nO. A student with triggered situational interest, who shows temporary engagement when exposed to novel stimuli\nP. A student with well-developed individual interest, who is consistently engaged voluntarily over time\nQ. A student with triggered situational interest, who shows temporary engagement when exposed to novel stimuli\nR. A student with well-developed individual interest, who is consistently engaged voluntarily over time\nS. A student with triggered situational interest,",
+        "usage": {
+            "prompt_tokens": 1200,
+            "completion_tokens": 256,
+            "total_tokens": 1456
+        }
+    },
+    "66e9ce9d29eb7c1a0721fdf1": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "13. Ezsue esku luesij kej.\n14. Ezsue esku luesij kej.\n15. Ezsue esku luesij kej.\n16. Ezsue esku luesij kej.\n17. Ezsue esku luesij kej.\n18. Ezsue esku luesij kej.\n19. Ezsue esku luesij kej.\n20. Ezsue esku luesij kej.\n21. Ezsue esku luesij kej.\n22. Ezsue esku luesij kej.\n23. Ezsue esku luesij kej.\n24. Ezsue esku luesij kej.\n25. Ezsue esku luesij kej.\n26. Ezsue esku luesij kej.\n27. Ezsue esku luesij kej.\n28. Ezsue esku luesij kej.\n29. Ezsue esku luesij kej.\n3",
+        "usage": {
+            "prompt_tokens": 1243,
+            "completion_tokens": 256,
+            "total_tokens": 1499
+        }
+    },
+    "671f20c0e38f776acdad8a7d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The Shannon's diversity of insects at each site is",
+        "usage": {
+            "prompt_tokens": 1186,
+            "completion_tokens": 12,
+            "total_tokens": 1198
+        }
+    },
+    "670010ff77983eff561814b2": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer Choices:\nA. RGDMAA\nB. RGDSPSS\nC. RGDLTTP\nD. RGDQVSK\nE. RGDARGG",
+        "usage": {
+            "prompt_tokens": 1090,
+            "completion_tokens": 38,
+            "total_tokens": 1128
+        }
+    },
+    "670e00c1289a73b5d2b75215": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "##",
+        "usage": {
+            "prompt_tokens": 1103,
+            "completion_tokens": 2,
+            "total_tokens": 1105
+        }
+    },
+    "6713a4c60223609143188d32": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "the following reaction was performed .",
+        "usage": {
+            "prompt_tokens": 1180,
+            "completion_tokens": 7,
+            "total_tokens": 1187
+        }
+    },
+    "6771a5c801a4f50fae8acc0c": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "# of symbols = 9",
+        "usage": {
+            "prompt_tokens": 1053,
+            "completion_tokens": 7,
+            "total_tokens": 1060
+        }
+    },
+    "676625d01ac4d6b20625ea51": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "(b) Call e \"deep\" when during execution p is applied to an argument depending on p. How many (extensionally) distinct functions are induced by deep e's ?",
+        "usage": {
+            "prompt_tokens": 1125,
+            "completion_tokens": 38,
+            "total_tokens": 1163
+        }
+    },
+    "66ea534258a0968d95583cd8": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "##",
+        "usage": {
+            "prompt_tokens": 1154,
+            "completion_tokens": 2,
+            "total_tokens": 1156
+        }
+    },
+    "66e9ae5ba60f4072c0bf5106": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "play",
+        "usage": {
+            "prompt_tokens": 1030,
+            "completion_tokens": 2,
+            "total_tokens": 1032
+        }
+    },
+    "6724fe91ea5926938a631b9c": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "{\\displaystyle N_{e}} {\\displaystyle N_{e}} is the smallest absolute error you can produce (rounded to 0.01 m/s).\n  \n    {\\displaystyle N_{e}} {\\displaystyle N_{e}} is the smallest absolute error you can produce (rounded to 0.01 m/s).\n    {\\displaystyle N_{e}} {\\displaystyle N_{e}} is the smallest absolute error you can produce (rounded to 0.01 m/s).\n    {\\displaystyle N_{e}} {\\displaystyle N_{e}} is the smallest absolute error you can produce (rounded to 0.01 m/s).\n    {\\displaystyle N_{e}} {\\displaystyle N_{e}} is the smallest absolute error you can produce (rounded to 0.01 m/s).\n    {\\displaystyle N_{e}} {\\displaystyle N_{e}} is the smallest absolute error you can produce (rounded to 0.01 m/s).\n    {\\displaystyle N_{e}} {\\displaystyle N_{e}} is the smallest absolute error you can produce (rounded to 0.01 m/s).\n    {\\displaystyle N_{e}} {\\displaystyle N_{e",
+        "usage": {
+            "prompt_tokens": 2120,
+            "completion_tokens": 256,
+            "total_tokens": 2376
+        }
+    },
+    "67169465a4566d624a446240": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "enter image description here",
+        "usage": {
+            "prompt_tokens": 1153,
+            "completion_tokens": 5,
+            "total_tokens": 1158
+        }
+    },
+    "6723fd5a1e085509e462323d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1079,
+            "completion_tokens": 2,
+            "total_tokens": 1081
+        }
+    },
+    "672e3eeb0a6bacddc98c2217": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "\\(H_7(p,q) = \\frac{1}{2} \\left( p^2 - \\frac{1}{4}(p^2 + q^2)^2 + p^2 + q^2 \\right)\\)",
+        "usage": {
+            "prompt_tokens": 1901,
+            "completion_tokens": 53,
+            "total_tokens": 1954
+        }
+    },
+    "672bf0d1e9ebfc8b093c1309": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "0",
+        "usage": {
+            "prompt_tokens": 1083,
+            "completion_tokens": 2,
+            "total_tokens": 1085
+        }
+    },
+    "6737006d3f0517b6e8a60733": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "I. A & D",
+        "usage": {
+            "prompt_tokens": 1218,
+            "completion_tokens": 6,
+            "total_tokens": 1224
+        }
+    },
+    "66ec0ed8b0ae7f67e365a163": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &\n& X &",
+        "usage": {
+            "prompt_tokens": 1514,
+            "completion_tokens": 256,
+            "total_tokens": 1770
+        }
+    },
+    "670ffefcdf4931d858723e36": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "###",
+        "usage": {
+            "prompt_tokens": 1042,
+            "completion_tokens": 2,
+            "total_tokens": 1044
+        }
+    },
+    "6721058a1e9aa94fc1e215dd": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1084,
+            "completion_tokens": 2,
+            "total_tokens": 1086
+        }
+    },
+    "6737016cd6feab08ed98c77d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "no",
+        "usage": {
+            "prompt_tokens": 1071,
+            "completion_tokens": 2,
+            "total_tokens": 1073
+        }
+    },
+    "66fc3273b7405dff90941955": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1064,
+            "completion_tokens": 2,
+            "total_tokens": 1066
+        }
+    },
+    "671dacdd355c956ce7de5aa5": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "a. cocaine b. morphine c. codeine d. heroin",
+        "usage": {
+            "prompt_tokens": 1032,
+            "completion_tokens": 14,
+            "total_tokens": 1046
+        }
+    },
+    "6732761c77e9a02e661946ac": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "person",
+        "usage": {
+            "prompt_tokens": 1046,
+            "completion_tokens": 2,
+            "total_tokens": 1048
+        }
+    },
+    "6736e54a4c96e49df1036fc6": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1158,
+            "completion_tokens": 2,
+            "total_tokens": 1160
+        }
+    },
+    "671f3821d579cf064f22d3bd": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "H. A recording of a live performance by the band at the 1987 San Francisco Pride Parade\nI. A recording of a live performance by the band at the 1987 San Francisco Pride Parade\nJ. A recording of a live performance by the band at the 1987 San Francisco Pride Parade\nK. A recording of a live performance by the band at the 1987 San Francisco Pride Parade\nL. A recording of a live performance by the band at the 1987 San Francisco Pride Parade\nM. A recording of a live performance by the band at the 1987 San Francisco Pride Parade\nN. A recording of a live performance by the band at the 1987 San Francisco Pride Parade\nO. A recording of a live performance by the band at the 1987 San Francisco Pride Parade\nP. A recording of a live performance by the band at the 1987 San Francisco Pride Parade\nQ. A recording of a live performance by the band at the 1987 San Francisco Pride Parade\nR. A recording of a live performance by the band at the 1987 San Francisco Pride Parade\nS. A",
+        "usage": {
+            "prompt_tokens": 1167,
+            "completion_tokens": 256,
+            "total_tokens": 1423
+        }
+    },
+    "6736db293948fca827d45576": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "H. (1,1)\nI. (2,5)\nJ. (1,5)\nK. (1,4)\nL. (2,3)\nM. (1,4)\nN. (1,3)\nO. (2,3)\nP. (1,2)\nQ. (1,1)\nR. (1,1)\nS. (1,2)\nT. (1,1)\nU. (1,2)\nV. (1,3)\nW. (1,3)\nX. (1,2)\nY. (1,1)\nZ. (1,1)",
+        "usage": {
+            "prompt_tokens": 1280,
+            "completion_tokens": 152,
+            "total_tokens": 1432
+        }
+    },
+    "671ae258d2ea402783696a9f": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "urine",
+        "usage": {
+            "prompt_tokens": 1236,
+            "completion_tokens": 2,
+            "total_tokens": 1238
+        }
+    },
+    "6733fca10a354898fb579c2e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "none of the above",
+        "usage": {
+            "prompt_tokens": 1057,
+            "completion_tokens": 5,
+            "total_tokens": 1062
+        }
+    },
+    "66eb707cb1d5bf033573afa3": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The value of \\(\\mu_{annulus}\\) is determined by the ratio of the viscosity of the annulus to the viscosity of the tube, and the value of \\(\\mu_{tube}\\) is determined by the ratio of the viscosity of the tube to the viscosity of the annulus. The value of \\(\\mu_{tube}\\) is determined by the ratio of the viscosity of the tube to the viscosity of the annulus. The value of \\(\\mu_{annulus}\\) is determined by the ratio of the viscosity of the annulus to the viscosity of the tube, and the value of \\(\\mu_{annulus}\\) is determined by the ratio of the viscosity of the annulus to the viscosity of the tube. The value of \\(\\mu_{tube}\\) is determined by the ratio of the viscosity of the tube to the viscosity of the annulus. The value of \\(\\mu_{annulus}\\) is determined by the ratio of the viscosity of the annulus to the viscosity of the tube. The value of \\(\\mu_{annulus}\\) is determined by the ratio of the viscosity of the annulus to the viscosity of the tube. The value of \\(\\mu_{annulus}\\) is determined by the ratio of the viscosity of the annulus to the viscosity",
+        "usage": {
+            "prompt_tokens": 1570,
+            "completion_tokens": 256,
+            "total_tokens": 1826
+        }
+    },
+    "672643a2699c78200b0177e9": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The explicit form of $H(t)$ is\n$$H(t)=0, \\forall t>0, x \\in \\mathbb{R}.$$\nThe explicit form of $H(t)=0, \\forall t>0, x \\in \\mathbb{R}$ is\n$$H(t)=0, \\forall t>0, x \\in \\mathbb{R}.$$\nThe explicit form of $H(t)=0, \\forall t>0, x \\in \\mathbb{R}$ is\n$$H(t)=0, \\forall t>0, x \\in \\mathbb{R}.$$\nThe explicit form of $H(t)=0, \\forall t>0, x \\in \\mathbb{R}$ is\n$$H(t)=0, \\forall t>0, x \\in \\mathbb{R}.$$\nThe explicit form of $H(t)=0, \\forall t>0, x \\in \\mathbb{R}$ is\n$$H(t)=0, \\forall t>0, x \\in \\mathbb{R}.$$\nThe explicit form of $H(t)=0, \\forall t>0, x \\in \\mathbb",
+        "usage": {
+            "prompt_tokens": 1315,
+            "completion_tokens": 256,
+            "total_tokens": 1571
+        }
+    },
+    "6723bf036e47cec0509b5caf": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "a)",
+        "usage": {
+            "prompt_tokens": 1188,
+            "completion_tokens": 3,
+            "total_tokens": 1191
+        }
+    },
+    "67ae17cf1509e1d55b4a0eec": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1195,
+            "completion_tokens": 2,
+            "total_tokens": 1197
+        }
+    },
+    "673312855d26efacb4819f3a": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1088,
+            "completion_tokens": 2,
+            "total_tokens": 1090
+        }
+    },
+    "6736d80ac3870d903d810cb3": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "For the $n$ positive integer find closed formula for $G(n)$.",
+        "usage": {
+            "prompt_tokens": 1273,
+            "completion_tokens": 17,
+            "total_tokens": 1290
+        }
+    },
+    "66ea4076d1767539f1308fde": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "## = 4th , ♭ = 3rd , ♯ = 2nd , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1st , ♭ = 1",
+        "usage": {
+            "prompt_tokens": 1140,
+            "completion_tokens": 256,
+            "total_tokens": 1396
+        }
+    },
+    "67169906187dc7ac4a7ae1a8": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "I. 1000 - ten thousand times as long as experiment\nJ. 10000 - ten thousand times as long as experiment\nK. 100000 - ten thousand times as long as experiment\nL. 1000000 - ten million times as long as experiment\nM. 10000000 - ten million times as long as experiment\nN. 100000000 - ten billion times as long as experiment\nO. 1000000000 - ten trillion times as long as experiment\nP. 10000000000 - ten quadrillion times as long as experiment\nQ. 100000000000 - ten trillion times as long as experiment\nR. 1000000000000 - ten trillion times as long as experiment\nS. 1000000000000 - ten trillion times as long as experiment\nT. 1000000000000 - ten trillion times as long as experiment",
+        "usage": {
+            "prompt_tokens": 2036,
+            "completion_tokens": 256,
+            "total_tokens": 2292
+        }
+    },
+    "672f74159150f3ac08f0c9f5": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1055,
+            "completion_tokens": 2,
+            "total_tokens": 1057
+        }
+    },
+    "67252aad70e5e32e5897fa56": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Enter your answer in the form:",
+        "usage": {
+            "prompt_tokens": 1235,
+            "completion_tokens": 8,
+            "total_tokens": 1243
+        }
+    },
+    "670663d687c53b9e6fa1dc8f": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1113,
+            "completion_tokens": 2,
+            "total_tokens": 1115
+        }
+    },
+    "6726b934d4553efaee99c556": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "###",
+        "usage": {
+            "prompt_tokens": 1265,
+            "completion_tokens": 2,
+            "total_tokens": 1267
+        }
+    },
+    "672f9b772357e1d1acd486b4": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "0",
+        "usage": {
+            "prompt_tokens": 1126,
+            "completion_tokens": 2,
+            "total_tokens": 1128
+        }
+    },
+    "66ef7b50d3cdb68693dc3f5c": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer K as the highest number of characters can be decoded from the Shu.",
+        "usage": {
+            "prompt_tokens": 1468,
+            "completion_tokens": 16,
+            "total_tokens": 1484
+        }
+    },
+    "673d70ca1b7b41a118b4b786": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1123,
+            "completion_tokens": 2,
+            "total_tokens": 1125
+        }
+    },
+    "671746ad21eec7fde8de4026": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "byte",
+        "usage": {
+            "prompt_tokens": 1104,
+            "completion_tokens": 2,
+            "total_tokens": 1106
+        }
+    },
+    "6748bcd672242905a576615e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "person",
+        "usage": {
+            "prompt_tokens": 1069,
+            "completion_tokens": 2,
+            "total_tokens": 1071
+        }
+    },
+    "66e8e6c8f59e5564daf565bd": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer: E",
+        "usage": {
+            "prompt_tokens": 1443,
+            "completion_tokens": 4,
+            "total_tokens": 1447
+        }
+    },
+    "66e88728ba7d8bc0d5806f3a": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Answer Choices:\nA. Watterson's estimator (theta) is biased.\nB. Watterson's estimator (theta) and pi (nucleotide diversity) are unbiased.\nC. Watterson's estimator (theta) and pi (nucleotide diversity) are biased.\nD. Watterson's estimator (theta) and pi (nucleotide diversity) are unbiased.\nE. Watterson's estimator (theta) and pi (nucleotide diversity) are both biased.",
+        "usage": {
+            "prompt_tokens": 1343,
+            "completion_tokens": 103,
+            "total_tokens": 1446
+        }
+    },
+    "670c48975b505e10c0277cee": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "enter image description here",
+        "usage": {
+            "prompt_tokens": 1145,
+            "completion_tokens": 5,
+            "total_tokens": 1150
+        }
+    },
+    "67407476202fdf7a5b5c6cc1": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1105,
+            "completion_tokens": 2,
+            "total_tokens": 1107
+        }
+    },
+    "6723a613f747d32c6b0b65dc": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. high luminance because the radical can be quenched by each other",
+        "usage": {
+            "prompt_tokens": 1134,
+            "completion_tokens": 14,
+            "total_tokens": 1148
+        }
+    },
+    "66ff44de2cfec1499ea021dd": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "circle",
+        "usage": {
+            "prompt_tokens": 1129,
+            "completion_tokens": 2,
+            "total_tokens": 1131
+        }
+    },
+    "67572db350ff3671b773ebf2": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "a",
+        "usage": {
+            "prompt_tokens": 1082,
+            "completion_tokens": 2,
+            "total_tokens": 1084
+        }
+    },
+    "67241cbe9909a95d1bf7aa00": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "S. III, V, VI\nT. III, V, VI\nU. III, V, VI\nV. III, V, VI\nW. III, V, VI\nX. III, V, VI\nY. III, V, VI\nZ. III, V, VI\nA. I, II, III\nB. I, II, IV\nC. I, II, V\nD. I, III, V\nE. I, IV, V\nF. I, V, V\nG. I, VI\nH. I, VII\nI. I, VI\nJ. I, VII\nK. I, VIII\nL. I, IX\nM. I, IX\nN. I, X\nO. I, XI\nP. I, XII\nQ. I, XIII\nR. I, XIV\nS. I, XV\nT. I, XVI\nU. I, XVII\nV. I, XVIII\nW. I, XIX\nX. I, XX\nY. I, XXI\nZ. I, XXII\nA. I, XIII\nB. I, XIV\nC. I, XV\nD. I, XVI",
+        "usage": {
+            "prompt_tokens": 1504,
+            "completion_tokens": 256,
+            "total_tokens": 1760
+        }
+    },
+    "67300670a8a3b9c5fe76c0b8": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "$ \\psi\\rangle = \\frac{1}{\\sqrt{2}} \\left( |0\\rangle_A \\otimes |0\\rangle_B + |1\\rangle_A \\otimes |1\\rangle_B + |2\\rangle_A \\otimes |2\\rangle_B + |3\\rangle_A \\otimes |3\\rangle_B + |4\\rangle_A \\otimes |4\\rangle_B \\right) $",
+        "usage": {
+            "prompt_tokens": 1587,
+            "completion_tokens": 97,
+            "total_tokens": 1684
+        }
+    },
+    "677fcb0487e03828c5c19bcd": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "person",
+        "usage": {
+            "prompt_tokens": 1047,
+            "completion_tokens": 2,
+            "total_tokens": 1049
+        }
+    },
+    "67250fde58b17ce5905f2cfe": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "0",
+        "usage": {
+            "prompt_tokens": 1037,
+            "completion_tokens": 2,
+            "total_tokens": 1039
+        }
+    },
+    "66e926cd0a94aa76a5ed8df8": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "I. 1,124\nJ. 1,164\nK. 1,204\nL. 1,244\nM. 1,364\nN. 1,484\nO. 1,504\nP. 1,524\nQ. 1,544\nR. 1,564\nS. 1,584\nT. 1,604\nU. 1,624\nV. 1,644\nW. 1,664\nX. 1,684\nY. 1,704\nZ. 1,724",
+        "usage": {
+            "prompt_tokens": 1401,
+            "completion_tokens": 162,
+            "total_tokens": 1563
+        }
+    },
+    "670ae3ecdbf9e3cf437887bc": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The following is an example of the format for the answer.",
+        "usage": {
+            "prompt_tokens": 1481,
+            "completion_tokens": 13,
+            "total_tokens": 1494
+        }
+    },
+    "66feaec49c469dbc1c0c4ed2": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "5",
+        "usage": {
+            "prompt_tokens": 1158,
+            "completion_tokens": 2,
+            "total_tokens": 1160
+        }
+    },
+    "6702bc770065c2f50235a34e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The sum of the absolute values of the (integer) coefficients in the numerator and denominator is 10.\nThe sum of the absolute values of the (integer) coefficients in the numerator and denominator is 10.\nThe sum of the absolute values of the (integer) coefficients in the numerator and denominator is 10.\nThe sum of the absolute values of the (integer) coefficients in the numerator and denominator is 10.\nThe sum of the absolute values of the (integer) coefficients in the numerator and denominator is 10.\nThe sum of the absolute values of the (integer) coefficients in the numerator and denominator is 10.\nThe sum of the absolute values of the (integer) coefficients in the numerator and denominator is 10.\nThe sum of the absolute values of the (integer) coefficients in the numerator and denominator is 10.\nThe sum of the absolute values of the (integer) coefficients in the numerator and denominator is 10.\nThe sum of the absolute values of the (integer) coefficients in the numerator and denominator is 10.\nThe sum of the absolute values of the (integer) coefficients in the numerator and denominator is 10.\nThe sum of",
+        "usage": {
+            "prompt_tokens": 1465,
+            "completion_tokens": 256,
+            "total_tokens": 1721
+        }
+    },
+    "670df2a72f80209631f57fc2": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "### - ### - ### , ### - ### - ### , ### - ### - ### , ### - ### - ### , ### - ### - ### , ### - ### - ### , ### - ### - ### , ### - ### - ### , ### - ### - ###",
+        "usage": {
+            "prompt_tokens": 1071,
+            "completion_tokens": 54,
+            "total_tokens": 1125
+        }
+    },
+    "67268b4250fff4488ec9708b": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "full",
+        "usage": {
+            "prompt_tokens": 1073,
+            "completion_tokens": 2,
+            "total_tokens": 1075
+        }
+    },
+    "676dd54cfec7cef1e3bbe74d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "new",
+        "usage": {
+            "prompt_tokens": 1045,
+            "completion_tokens": 2,
+            "total_tokens": 1047
+        }
+    },
+    "66ff063787bfb80443d02df6": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. E1, E2, E3, E4, E5\nG. E1, E2, E3, E4, E5\nH. E1, E2, E3, E4, E5\nI. E1, E2, E3, E4, E5\nJ. E1, E2, E3, E4, E5\nK. E1, E2, E3, E4, E5\nL. E1, E2, E3, E4, E5\nM. E1, E2, E3, E4, E5\nN. E1, E2, E3, E4, E5\nO. E1, E2, E3, E4, E5\nP. E1, E2, E3, E4, E5\nQ. E1, E2, E3, E4, E5\nR. E1, E2, E3, E4, E5\nS. E1, E2, E3, E4, E5\nT. E1, E2, E3, E4, E5\nU",
+        "usage": {
+            "prompt_tokens": 1368,
+            "completion_tokens": 256,
+            "total_tokens": 1624
+        }
+    },
+    "66f378a504165ae3e4f46de9": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "G. 7\nH. 8\nI. 9\nJ. 10",
+        "usage": {
+            "prompt_tokens": 1084,
+            "completion_tokens": 21,
+            "total_tokens": 1105
+        }
+    },
+    "6719c431d5ad96a75c350fa5": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The compound is a cyclic compound with a carbon atom in the middle of the ring.",
+        "usage": {
+            "prompt_tokens": 1129,
+            "completion_tokens": 18,
+            "total_tokens": 1147
+        }
+    },
+    "672de9b9ed6de72b75b8c802": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "At what flow speed v does the pressure at the bottom increase to infinity ?",
+        "usage": {
+            "prompt_tokens": 1161,
+            "completion_tokens": 16,
+            "total_tokens": 1177
+        }
+    },
+    "67371c15d09c0e422ae36585": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "A) True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True, False, True,",
+        "usage": {
+            "prompt_tokens": 1413,
+            "completion_tokens": 256,
+            "total_tokens": 1669
+        }
+    },
+    "66fc1cc8c935ad838247482b": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "size",
+        "usage": {
+            "prompt_tokens": 1054,
+            "completion_tokens": 2,
+            "total_tokens": 1056
+        }
+    },
+    "66e8e473f59e5564daf565b6": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "",
+        "usage": {
+            "prompt_tokens": 1181,
+            "completion_tokens": 1,
+            "total_tokens": 1182
+        }
+    },
+    "66f2cda3b508188b6e7328a8": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "the number of trucks that will be unloaded in a day is",
+        "usage": {
+            "prompt_tokens": 1140,
+            "completion_tokens": 13,
+            "total_tokens": 1153
+        }
+    },
+    "67217d44c98941f2d2d343f6": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "N. The set of irrational numbers\nO. The set of irrational numbers and their limit points\nP. The set of irrational numbers and their limit points in the real numbers\nQ. The set of irrational numbers and their limit points in the real numbers\nR. The set of irrational numbers and their limit points in the real numbers\nS. The set of irrational numbers and their limit points in the real numbers\nT. The set of irrational numbers and their limit points in the real numbers\nU. The set of irrational numbers and their limit points in the real numbers\nV. The set of irrational numbers and their limit points in the real numbers\nW. The set of irrational numbers and their limit points in the real numbers\nX. The set of irrational numbers and their limit points in the real numbers\nY. The set of irrational numbers and their limit points in the real numbers\nZ. The set of irrational numbers and their limit points in the real numbers",
+        "usage": {
+            "prompt_tokens": 1253,
+            "completion_tokens": 196,
+            "total_tokens": 1449
+        }
+    },
+    "66e939c176b5b4f3e8a369b8": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1068,
+            "completion_tokens": 2,
+            "total_tokens": 1070
+        }
+    },
+    "67192b9472c6fd14e759e369": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Alice and Bob are both trying to send a secret message to each other .",
+        "usage": {
+            "prompt_tokens": 1156,
+            "completion_tokens": 16,
+            "total_tokens": 1172
+        }
+    },
+    "67257a165c16db8f964755a2": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.",
+        "usage": {
+            "prompt_tokens": 1038,
+            "completion_tokens": 31,
+            "total_tokens": 1069
+        }
+    },
+    "673cc799bf41eb35a33612d7": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "(f) All of the above",
+        "usage": {
+            "prompt_tokens": 1070,
+            "completion_tokens": 8,
+            "total_tokens": 1078
+        }
+    },
+    "670285bc39fbddbbfdaffdfe": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. Conceptual metaphor",
+        "usage": {
+            "prompt_tokens": 1081,
+            "completion_tokens": 5,
+            "total_tokens": 1086
+        }
+    },
+    "672f6cfd609b665328565e5c": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Example:\nFor the example above, the answer is 1.",
+        "usage": {
+            "prompt_tokens": 1254,
+            "completion_tokens": 15,
+            "total_tokens": 1269
+        }
+    },
+    "671ab94ffad7ae30b89eff8f": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. Arsenic induced Renal Dysfunction",
+        "usage": {
+            "prompt_tokens": 1170,
+            "completion_tokens": 7,
+            "total_tokens": 1177
+        }
+    },
+    "6775b1ab76b69969709e80a7": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The value of P(n) is determined by the number of occurrences of the base corresponding to the 3-qubit state $|x⟩ $ in the DNA sequence, modulo 8.",
+        "usage": {
+            "prompt_tokens": 1311,
+            "completion_tokens": 40,
+            "total_tokens": 1351
+        }
+    },
+    "66f579027a2ac7b4fffe1740": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1101,
+            "completion_tokens": 2,
+            "total_tokens": 1103
+        }
+    },
+    "6725ffac1cd77337de97422d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1172,
+            "completion_tokens": 2,
+            "total_tokens": 1174
+        }
+    },
+    "66f7292f3f4622b6ce24b961": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "## - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -",
+        "usage": {
+            "prompt_tokens": 1069,
+            "completion_tokens": 256,
+            "total_tokens": 1325
+        }
+    },
+    "67325d2d189b1ffa84c76d55": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "\\end{aligned}",
+        "usage": {
+            "prompt_tokens": 1375,
+            "completion_tokens": 6,
+            "total_tokens": 1381
+        }
+    },
+    "66eba0ac68e7d4b6c48bb022": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-\n-i-",
+        "usage": {
+            "prompt_tokens": 2646,
+            "completion_tokens": 256,
+            "total_tokens": 2902
+        }
+    },
+    "671c0ccd29d77939ea7f3bd4": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "l",
+        "usage": {
+            "prompt_tokens": 1042,
+            "completion_tokens": 2,
+            "total_tokens": 1044
+        }
+    },
+    "67359bd848f0d868aea133c4": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1147,
+            "completion_tokens": 2,
+            "total_tokens": 1149
+        }
+    },
+    "673a33fb2d5ce2b6500f4b48": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "- The minimum ratio of sampling triples to total triples required to estimate completeness in any stratum when the marginal completeness tolerance is ε = 0.05 and the confidence level is 0.99 is",
+        "usage": {
+            "prompt_tokens": 1186,
+            "completion_tokens": 42,
+            "total_tokens": 1228
+        }
+    },
+    "66ffcf486c0e5bf5dcf91072": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "0",
+        "usage": {
+            "prompt_tokens": 1053,
+            "completion_tokens": 2,
+            "total_tokens": 1055
+        }
+    },
+    "66fecbff69d5712b5401553e": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "* \\(\\mu = 0.15 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.1 k_\\text{B}\\cdot T\\)\n\n* \\(\\mu = 0.",
+        "usage": {
+            "prompt_tokens": 1473,
+            "completion_tokens": 256,
+            "total_tokens": 1729
+        }
+    },
+    "67213709fc2538200af2e939": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n12\n1",
+        "usage": {
+            "prompt_tokens": 2503,
+            "completion_tokens": 256,
+            "total_tokens": 2759
+        }
+    },
+    "673735aa61f20f11eb1097d2": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "I. 382\nJ. 380\nK. 383\nL. 385\nM. 386\nN. 388\nO. 389\nP. 390\nQ. 392\nR. 393\nS. 394\nT. 395\nU. 396\nV. 399\nW. 400\nX. 401\nY. 402\nZ. 403\nAnswer Choices:\nA. 335\nB. 478\nC. 439\nD. 412\nE. 380\nF. 382\nG. 384\nH. 386\nI. 388\nJ. 389\nK. 390\nL. 391\nM. 393\nN. 394\nO. 395\nP. 396\nQ. 397\nR. 398",
+        "usage": {
+            "prompt_tokens": 1241,
+            "completion_tokens": 256,
+            "total_tokens": 1497
+        }
+    },
+    "67366bc5b5eda7e01fa935c6": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "F. None of the above\nG. None of the above\nH. None of the above\nI. None of the above\nJ. None of the above\nK. None of the above\nL. None of the above\nM. None of the above\nN. None of the above\nO. None of the above\nP. None of the above\nQ. None of the above\nR. None of the above\nS. None of the above\nT. None of the above\nU. None of the above\nV. None of the above\nW. None of the above\nX. None of the above\nY. None of the above\nZ. None of the above\nA. None of the above\nB. None of the above\nC. None of the above\nD. None of the above\nE. None of the above\nF. None of the above\nG. None of the above\nH. None of the above\nI. None of the above\nJ. None of the above\nK. None of the above\nL. None of the above\nM. None of the above\nN. None of the above\nO. None of the above\nP. None of",
+        "usage": {
+            "prompt_tokens": 3887,
+            "completion_tokens": 256,
+            "total_tokens": 4143
+        }
+    },
+    "6736945a5a7f4f59e4731c4d": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "answer",
+        "usage": {
+            "prompt_tokens": 1200,
+            "completion_tokens": 2,
+            "total_tokens": 1202
+        }
+    },
+    "67083574e919041d86ac83d0": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "drawing",
+        "usage": {
+            "prompt_tokens": 1035,
+            "completion_tokens": 2,
+            "total_tokens": 1037
+        }
+    },
+    "67216b3c8238b402204d3432": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "The shape is a (write a single word in lowercase describing what the shape is).",
+        "usage": {
+            "prompt_tokens": 1553,
+            "completion_tokens": 18,
+            "total_tokens": 1571
+        }
+    },
+    "6737697dedff89681fe75582": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "a",
+        "usage": {
+            "prompt_tokens": 1078,
+            "completion_tokens": 2,
+            "total_tokens": 1080
+        }
+    },
+    "6734968f832777944c775cc4": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "K. Cosine Scaling Function\nL. Cosine Distortion Function\nM. Cosine Scaling Algorithm\nN. Cosine Distortion Algorithm\nO. Cosine Distortion Function\nP. Cosine Distortion Algorithm\nQ. Cosine Distortion Function\nR. Cosine Distortion Algorithm\nS. Cosine Distortion Function\nT. Cosine Distortion Algorithm\nU. Cosine Distortion Function\nV. Cosine Distortion Algorithm\nW. Cosine Distortion Function\nX. Cosine Distortion Algorithm\nY. Cosine Distortion Function\nZ. Cosine Distortion Algorithm",
+        "usage": {
+            "prompt_tokens": 1118,
+            "completion_tokens": 112,
+            "total_tokens": 1230
+        }
+    },
+    "6724e08542ec04c22a24aaa5": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "- (a) If \\( x^2 a \\cdot 1_R \\in Z(R) \\), does this imply \\( x^j \\cdot r \\) is symmetric for all \\( j \\geq 2 \\)?\n- (b) State the value of \\( x^2 a \\cdot 1_R \\in Z(R) \\), if \\( x^2 a \\cdot 1_R \\in Z(R) \\), and \\( q = -1 \\).\n- (c) Given that \\( g \\cdot 1_R = 0 \\) and \\( w = x \\cdot 1_R \\in Z(R) \\), express \\( x^3 a \\cdot 1_R \\in Z(R) \\), if \\( g \\cdot 1_R \\in Z(R) \\), and \\( q = -1 \\).\n- (a) If \\( x^2 a \\cdot 1_R \\in Z(R) \\), does this imply \\( x^j \\cdot r \\) is symmetric for all \\( j \\geq 2 \\)?\n- (b) State the value of \\( x^2 a \\cdot 1_",
+        "usage": {
+            "prompt_tokens": 1430,
+            "completion_tokens": 256,
+            "total_tokens": 1686
+        }
+    },
+    "671ab139554dabfda724ef23": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "Hint : Let $A = \\begin{pmatrix}\nX_N & X_{N+1} \\\\ 0 & X_{N+2}\n\\end{pmatrix}\n$$\nbe a diagonalisable matrix .",
+        "usage": {
+            "prompt_tokens": 1153,
+            "completion_tokens": 48,
+            "total_tokens": 1201
+        }
+    },
+    "6764af3e09c51ff9e2646c2c": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "m",
+        "usage": {
+            "prompt_tokens": 1067,
+            "completion_tokens": 2,
+            "total_tokens": 1069
+        }
+    },
+    "66eef273278112bed8e1d96b": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1147,
+            "completion_tokens": 2,
+            "total_tokens": 1149
+        }
+    },
+    "67008f2afc2c0a4040f1d353": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "| 0.381929696 | 220.0119 |\n| 0.381929696 | 220.0119 |\n| 0.381929696 | 220.0119 |\n| 0.381929696 | 220.0119 |\n| 0.381929696 | 220.0119 |\n| 0.381929696 | 220.0119 |\n| 0.381929696 | 220.0119 |\n| 0.381929696 | 220.0119 |\n| 0.381929696 | 220.0119 |\n| 0.381929696 | 220.0119 |\n| 0.38",
+        "usage": {
+            "prompt_tokens": 3022,
+            "completion_tokens": 256,
+            "total_tokens": 3278
+        }
+    },
+    "66f4491ee406283b486f0f51": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "1",
+        "usage": {
+            "prompt_tokens": 1075,
+            "completion_tokens": 2,
+            "total_tokens": 1077
+        }
+    },
+    "673cc4885c871b3f9e026d02": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "VII. The discoverer of 16 Cygni Bb was a member of the Royal Society.",
+        "usage": {
+            "prompt_tokens": 1211,
+            "completion_tokens": 21,
+            "total_tokens": 1232
+        }
+    },
+    "66e91bc08dd8f00467e3d5d8": {
+        "model": "google/paligemma2-3b-pt-448",
+        "response": "K. 11\nL. 12",
+        "usage": {
+            "prompt_tokens": 1166,
+            "completion_tokens": 12,
+            "total_tokens": 1178
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "model": "base_paligemma",
+    "judge": "o3-mini-2025-01-31",
+    "dataset": "cais/hle",
+    "accuracy": 1.6,
+    "half_width": 1.56,
+    "calibration_error": 98.0,
+    "n": 250
+}
